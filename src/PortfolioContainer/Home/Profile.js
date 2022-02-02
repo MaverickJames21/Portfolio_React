@@ -6,7 +6,7 @@ export default function Profile() {
   return (
     <div className="profile-container">
       <div className="profile-parent">
-        <div className="profile-detail">
+        <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
               <a href="https://github.com/MaverickJames21">
@@ -18,10 +18,10 @@ export default function Profile() {
               <a href="https://mail.google.com/mail/u/0/#inbox">
                 <i className="fa fa-google-plus-square"></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/maverickjames21/">
                 <i className="fa fa-instagram"></i>
               </a>
-              <a href="#">
+              <a href="https://twitter.com/home">
                 <i className="fa fa-twitter"></i>
               </a>
             </div>
@@ -43,15 +43,15 @@ export default function Profile() {
                   loop={Infinity}
                   steps={[
                     "Enthusiastic Developer 👨‍💻",
-                    2000,
+                    1000,
                     "Full Stack Developer 💻",
-                    2000,
+                    1000,
                     "UI/UX Developer 😎",
-                    2000,
+                    1000,
                     "React Developer 🌐",
-                    2000,
+                    1000,
                     "Laravel Developer 💢",
-                    2000,
+                    1000,
                   ]}
                 />
               </h1>
